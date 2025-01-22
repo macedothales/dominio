@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Adquira um domínio premium para seu negócio! Este domínio está disponível para venda e pode ser a chave para sua presença online de sucesso.">
+    <meta name="keywords" content="domínio à venda, comprar domínio, domínio premium, presença online, oportunidade digital">
+    <meta name="author" content="Domínio à Venda">
+    <title>Domínio Premium à Venda 🚀</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(to bottom, #f7f9fc, #eaf1f8);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        .container {
+            background: white;
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+            max-width: 600px;
+            margin: 0 20px;
+        }
+        h1 {
+            color: #0056b3;
+            font-size: 2em;
+            margin-bottom: 15px;
+        }
+        p {
+            color: #333;
+            font-size: 1.1em;
+            line-height: 1.6;
+        }
+        .highlight {
+            color: #ff5722;
+            font-weight: bold;
+        }
+        a {
+            display: inline-block;
+            margin-top: 20px;
+            text-decoration: none;
+            background: #007bff;
+            color: white;
+            padding: 12px 25px;
+            font-size: 1.1em;
+            border-radius: 5px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            transition: background 0.3s;
+        }
+        a:hover {
+            background: #0056b3;
+        }
+        .email {
+            color: #ff5722;
+            font-weight: bold;
+        }
+        footer {
+            margin-top: 20px;
+            font-size: 0.9em;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🌟 Domínio Premium à Venda 🌟</h1>
+        <p>🌐 **Está buscando um endereço online que seja memorável, único e capaz de alavancar sua presença digital?**</p>
+        <p>Este domínio está disponível para compra e pode ser exatamente o que você precisa para:</p>
+        <ul style="text-align: left; color: #333; margin: 15px auto; line-height: 1.6;">
+            <li>✅ Criar uma **marca de impacto** na internet;</li>
+            <li>✅ Aumentar sua **credibilidade online**;</li>
+            <li>✅ Tornar seu negócio **mais acessível e reconhecido**;</li>
+            <li>✅ Garantir sua posição de destaque nos mecanismos de pesquisa.</li>
+        </ul>
+        <p class="highlight">💡 Aproveite esta oportunidade única de adquirir um domínio premium e se destaque no mercado!</p>
+        <p><strong>Entre em contato agora e faça sua proposta:</strong></p>
+        <p class="email">📧 <a href="mailto:dominioavenda@icloud.com">dominioavenda@icloud.com</a></p>
+        <a href="mailto:dominioavenda@icloud.com">💌 Enviar Proposta</a>
+    </div>
+    <footer>
+        <p>🔍 Este domínio foi otimizado para estar sempre à frente nas pesquisas relacionadas. Não perca esta chance!</p>
+    </footer>
+</body>
+</html>
